@@ -3,3 +3,9 @@ INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
 INFO:     127.0.0.1:41248 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     2001:56a:f051:b200:b816:16bf:1c35:7ec0:0 - "GET / HTTP/1.1" 200 OK
+INFO:     2001:56a:f051:b200:b816:16bf:1c35:7ec0:0 - "GET /assets/index-AR07FE5P.js HTTP/1.1" 200 OK
+INFO:     2001:56a:f051:b200:b816:16bf:1c35:7ec0:0 - "GET /assets/index-BtbxtOZ9.css HTTP/1.1" 200 OK
+INFO:     2001:56a:f051:b200:b816:16bf:1c35:7ec0:0 - "POST /api/progress/load HTTP/1.1" 200 OK
+INFO:     2001:56a:f051:b200:b816:16bf:1c35:7ec0:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     2001:56a:f051:b200:b816:16bf:1c35:7ec0:0 - "POST /api/upload HTTP/1.1" 500 Internal Server Error
