@@ -1,0 +1,12 @@
+fastapi==0.112.2
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+aiofiles==24.1.0
+openai>=1.40.3
+python-dotenv==1.0.1
+mammoth==1.6.0
+pdfminer.six==20231228
+pytesseract==0.3.10
+Pillow==10.4.0
+supabase==2.4.6
+orjson==3.10.7

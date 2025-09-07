@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --brand: #58cc02; }
+body { background: #f7fff2; font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+.duo-btn { @apply px-4 py-2 rounded-2xl font-semibold shadow; background: var(--brand); color: white; }
+.duo-card { @apply bg-white rounded-2xl shadow p-4; }
