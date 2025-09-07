@@ -9,3 +9,7 @@ INFO:     2001:56a:f051:b200:b816:16bf:1c35:7ec0:0 - "GET /assets/index-BtbxtOZ9
 INFO:     2001:56a:f051:b200:b816:16bf:1c35:7ec0:0 - "POST /api/progress/load HTTP/1.1" 200 OK
 INFO:     2001:56a:f051:b200:b816:16bf:1c35:7ec0:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
 INFO:     2001:56a:f051:b200:b816:16bf:1c35:7ec0:0 - "POST /api/upload HTTP/1.1" 500 Internal Server Error
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3892]
